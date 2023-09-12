@@ -1,3 +1,4 @@
+/// Below is an example code that demonstrates the use of an Expanded widget and custom Typography styles in Flutter
 import 'package:flutter/material.dart';
 
 void main() {
