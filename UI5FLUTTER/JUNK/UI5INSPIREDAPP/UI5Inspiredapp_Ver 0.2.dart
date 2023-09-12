@@ -1,4 +1,4 @@
-# Below is an example code that demonstrates the use of an Expanded widget and custom Typography styles in Flutter
+/// Below is an example code that demonstrates different types of buttons in Flutter, including elevated buttons, outlined buttons, and text buttons
 import 'package:flutter/material.dart';
 
 void main() {
