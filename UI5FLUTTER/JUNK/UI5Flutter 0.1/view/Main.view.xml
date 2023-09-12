@@ -1,0 +1,16 @@
+<mvc:View
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m"
+  displayBlock="true"
+  controllerName="myApp.controller.Main"
+>
+  <Page
+    title="UI5 Example"
+    showNavButton="false"
+  >
+    <content>
+      <Text text="Hello, UI5!" />
+      <Button text="Click Me" press="onButtonPress" />
+    </content>
+  </Page>
+</mvc:View>
