@@ -1,3 +1,6 @@
+/// Below is a simple Flutter code example that demonstrates a UI design with some basic UI5-inspired elements, such as a card, button, and typography.
+/// Included additional UI5-inspired elements, such as a list view and a footer
+/// A simple list view with some sample items and a footer with navigation buttons
 import 'package:flutter/material.dart';
 
 void main() {
