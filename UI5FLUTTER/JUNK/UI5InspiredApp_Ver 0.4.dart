@@ -3,6 +3,7 @@
 /// A simple list view with some sample items and a footer with navigation buttons
 /// The app bar at the top, a list of UI5-inspired cards displaying sample items, and a UI5-inspired footer at the bottom with navigation icons
 /// The app bar and button styles have been customized to match the UI5 design. The cards use a white background and rounded corners, and the text color follows the UI5-inspired color scheme
+/// Included a tab bar with multiple tabs, a dialog, and a switch toggle
 
 import 'package:flutter/material.dart';
 
